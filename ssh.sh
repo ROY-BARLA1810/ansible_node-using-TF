@@ -1,0 +1,2 @@
+# This is a comment
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDiZDr5CyEvCsu3Km9hsBlanXnDOqQIWtKWPexXZpabt7npDbxnuK41+gKdNeahSMGGS0g++QrREprzj58g/NPoQI8ID3dojxLwVywoXLKEv/ydJN5JGZQJXATyX1Iy+9HHFidNS0BYnP/UTbGD16UN5UfDDQ8jFWfDMFwbaZGO2C3zegYSwKlo+hD2vBh+Svt322jtQ/nxZNJptziDlJwnP9hpsZgOgOnfWVJriaIuSaAimScgsFcODh+ljURf2sPiwEtk/0SB/oeyXd9SgLLAOq7karir8OGOhY4xJEIESM0Ugvjm5AN8lb5w46+l43/Pgl5L6GlfGCCR2RdLCmbX ec2-user@ip.ap-southeast-1.compute.internal" >> /home/ec2-user/.ssh/authorized_keys
